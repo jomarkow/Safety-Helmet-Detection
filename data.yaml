@@ -1,0 +1,5 @@
+train: ../data/images
+val: ../data/images
+
+nc: 3 # Número de clases
+names: ['helmet','head','person']
